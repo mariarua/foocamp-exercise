@@ -1,1 +1,2 @@
-Este es un ejercicio del foocamp
+Foocamp exercise
+Class 11 - js
